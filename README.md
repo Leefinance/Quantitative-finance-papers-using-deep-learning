@@ -26,7 +26,10 @@ Deep learning have become increasingly used in the field of finance. One of the 
 
 ### 3. Convolutional neural networks
 
-## Deep trading strategy
+## Optimization
+- **A note on the validity of cross-validation for evaluating autoregressive time series prediction** (2018), Bergmeir et al. <https://www.sciencedirect.com/science/article/pii/S0167947317302384> 
+
+## Financial use cases
 ### 1. Deep trading
 ### 2. Deep portfolio
 - **Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks** (2013), L. Takeuchi and Y.-Y. Lee. [[pdf]](http://cs229.stanford.edu/proj2013/TakeuchiLee-ApplyingDeepLearningToEnhanceMomentumTradingStrategiesInStocks.pdf)

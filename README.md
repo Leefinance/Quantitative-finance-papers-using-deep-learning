@@ -1,7 +1,7 @@
 # Quantitative-finance-papers-using-deep-learning
 
 ## Background
-Deep learning has recently been investigated on its capability for financial data and specializing to financial time series
+Deep learning have become increasingly used in the field of finance. One of the difficulties in developing financial models arises from the fact that there is not a standard data like MINST or CIFAR. Experiments have usually carried out under different conditions such as periods, country, and private data, and consequently the models are exposed to experimental bias. Due to the difficulty of directly comparing the performance of the developed models, we cannot simply adopt the model with higher performance. I would like to introduce some papers on financial time series prediction and its applications, hoping that the techniques will provide information that will help in the development of new and improved perdictors for use in investment and risk management.
 ## Contents
 
 ***

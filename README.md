@@ -23,7 +23,9 @@ space.
 - **Deep learning with long short-term memory networks for financial market predictions** (2018), T. Fischer and C. Krauss. 
 (https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652)
 ### 2-3. Convolutional neural networks
-
+- **Algorithmic financial trading with deep convolutional neuralnetworks: Time series to image conversion approach** (2018), O. B. Sezer and A. M. Ozbayoglu.
+(https://www.sciencedirect.com/science/article/pii/S1568494618302151)
+  - Focus: It proposes a novel algorithmic trading model CNN-TA using a 2-D convolutional neural network based on image processing properties. In order to convert financial time series into 2-D images, 15 different technical indicators each with different parameter selections are utilized.
 ### 2-4. Autoencoder
 
 ## 3. Optimization

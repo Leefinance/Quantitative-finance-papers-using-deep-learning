@@ -30,8 +30,9 @@ space.
 - **A note on the validity of cross-validation for evaluating autoregressive time series prediction** (2018), Bergmeir et al. <https://www.sciencedirect.com/science/article/pii/S0167947317302384> 
 
 ## 4. Financial use cases
-### 4-1. Deep trading
-### 4-2. Deep portfolio/deep factor
+### 4-1. Prediction: up/down, trend
+### 4-2. Deep trading
+### 4-3. Deep portfolio/deep factor
 - **Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks** (2013), L. Takeuchi and Y.-Y. Lee. [[pdf]](http://cs229.stanford.edu/proj2013/TakeuchiLee-ApplyingDeepLearningToEnhanceMomentumTradingStrategiesInStocks.pdf)
   + Focus: It uses an autoencoder composed of stacked
 restricted Boltzmann machines to extract features from the history of individual stock prices. Its model is able to discover an enhanced version of the momentum effect in stocks without extensive hand-engineering of input features.

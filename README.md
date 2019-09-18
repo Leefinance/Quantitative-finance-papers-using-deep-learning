@@ -10,7 +10,7 @@ Deep learning have become increasingly used in the field of finance. One of the 
 ### Tecnical indicators
 - **Test**
 ### Macroecnomic indicators
-
+- **An Algorithmic Crystal Ball: Forecasts-based on Machine Learning** (2018),  J.-K. Jung et al. [[pdf]](https://www.imf.org/en/Publications/WP/Issues/2018/11/01/An-Algorithmic-Crystal-Ball-Forecasts-based-on-Machine-Learning-46288)
 ### Fundamental indicators
 
 ## Training
@@ -34,6 +34,8 @@ Deep learning have become increasingly used in the field of finance. One of the 
 ### 2. Deep portfolio
 - **Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks** (2013), L. Takeuchi and Y.-Y. Lee. [[pdf]](http://cs229.stanford.edu/proj2013/TakeuchiLee-ApplyingDeepLearningToEnhanceMomentumTradingStrategiesInStocks.pdf)
   + Comment: Momentum strategy is one of the most wide-known market anomaly in finance. While traditional momentum strategy is based on a few pre-specified past returns, their strategy is based on the features extracted from multiple past returns by a stacked autoencoder, which mitigates the bias in specifying the prior period over which to measure stock returns.
-
+- **Deep learning with long short-term memory networks for financial market predictions** (2018), T. Fischer and C. Krauss. 
+(http://www.sciencedirect.com.ssl.eproxy.sejong.ac.kr/science/article/pii/S0377221717310652)
+- **Deep Learning in Asset Pricing** (2019), L. Chen et al. [[pdf]](https://economics.yale.edu/sites/default/files/deep_learning_in_asset_pricing.pdf)
 ## Explaining machine learning
 ## Industrial application

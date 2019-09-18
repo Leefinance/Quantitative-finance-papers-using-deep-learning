@@ -13,19 +13,16 @@ I would like to introduce some papers on financial time series prediction and it
 ### Macroecnomic indicators
 - **An Algorithmic Crystal Ball: Forecasts-based on Machine Learning** (2018),  J.-K. Jung et al. [[pdf]](https://www.imf.org/en/Publications/WP/Issues/2018/11/01/An-Algorithmic-Crystal-Ball-Forecasts-based-on-Machine-Learning-46288)
 ### Fundamental indicators
-
-## Training
-
-## Prediction
-
-## Asset Allocation (portfolio)
-
+- **Deep Learning for Predicting Asset Returns** (2018),  G. Feng et al. [[pdf]](https://arxiv.org/pdf/1804.09314.pdf)
 ## Deep neural networks
-### 1. Feedforward neural networks
+### 1. Multi-layer perceptron 
 
 ### 2. Recurrent neural networks (simple-RNN, LSTM, GRU)
-
+- **Deep learning with long short-term memory networks for financial market predictions** (2018), T. Fischer and C. Krauss. 
+(https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652)
 ### 3. Convolutional neural networks
+
+### 4. Autoencoder
 
 ## Optimization
 - **A note on the validity of cross-validation for evaluating autoregressive time series prediction** (2018), Bergmeir et al. <https://www.sciencedirect.com/science/article/pii/S0167947317302384> 
@@ -42,4 +39,5 @@ I would like to introduce some papers on financial time series prediction and it
 - **Deep Learning in Asset Pricing** (2019), G. Feng et al. [[pdf]](https://arxiv.org/pdf/1805.01104.pdf)
 - **Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model** (2019), K. Nakagawa et al. [[pdf]](https://arxiv.org/ftp/arxiv/papers/1901/1901.11493.pdf)
 ## Explaining machine learning
+- **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 ## Industrial application

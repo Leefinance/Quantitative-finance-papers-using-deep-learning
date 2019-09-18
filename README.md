@@ -43,3 +43,4 @@ space.
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 ## 6. Industrial application
+- J.P. Morgan (https://www.jpmorgan.com/global/technology/artificial-intelligence)

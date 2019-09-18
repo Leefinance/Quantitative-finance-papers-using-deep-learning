@@ -14,6 +14,8 @@ I would like to introduce some papers on financial time series prediction and it
 - **An Algorithmic Crystal Ball: Forecasts-based on Machine Learning** (2018),  J.-K. Jung et al. [[pdf]](https://www.imf.org/en/Publications/WP/Issues/2018/11/01/An-Algorithmic-Crystal-Ball-Forecasts-based-on-Machine-Learning-46288)
 ### Fundamental indicators
 - **Deep Learning for Predicting Asset Returns** (2018),  G. Feng et al. [[pdf]](https://arxiv.org/pdf/1804.09314.pdf)
+  + foucs: It finds the existence of nonlinear factors which explain predictability of returns, in particular at the extremes of the characteristic
+space.
 ## 2. Deep neural networks
 ### 2-1. Multi-layer perceptron 
 

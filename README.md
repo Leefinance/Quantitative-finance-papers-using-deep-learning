@@ -14,7 +14,7 @@ I would like to introduce some papers on financial time series prediction and it
 - **An Algorithmic Crystal Ball: Forecasts-based on Machine Learning** (2018),  J.-K. Jung et al. [[pdf]](https://www.imf.org/en/Publications/WP/Issues/2018/11/01/An-Algorithmic-Crystal-Ball-Forecasts-based-on-Machine-Learning-46288)
 ### Fundamental indicators
 - **Deep Learning for Predicting Asset Returns** (2018),  G. Feng et al. [[pdf]](https://arxiv.org/pdf/1804.09314.pdf)
-  + foucs: It finds the existence of nonlinear factors which explain predictability of returns, in particular at the extremes of the characteristic
+  + Foucs: It finds the existence of nonlinear factors which explain predictability of returns, in particular at the extremes of the characteristic
 space.
 ## 2. Deep neural networks
 ### 2-1. Multi-layer perceptron 
@@ -33,14 +33,18 @@ space.
 ### 4-1. Deep trading
 ### 4-2. Deep portfolio/deep factor
 - **Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks** (2013), L. Takeuchi and Y.-Y. Lee. [[pdf]](http://cs229.stanford.edu/proj2013/TakeuchiLee-ApplyingDeepLearningToEnhanceMomentumTradingStrategiesInStocks.pdf)
-  + Comment: Momentum strategy is one of the most wide-known market anomaly in finance. While traditional momentum strategy is based on a few pre-specified past returns, their strategy is based on the features extracted from multiple past returns by a stacked autoencoder, which mitigates the bias in specifying the prior period over which to measure stock returns.
+  + Focus: It uses an autoencoder composed of stacked
+restricted Boltzmann machines to extract features from the history of individual stock prices. Its model is able to discover an enhanced version of the momentum effect in stocks without extensive hand-engineering of input features.
 - **Deep learning with long short-term memory networks for financial market predictions** (2018), T. Fischer and C. Krauss. 
 (https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652)
 - **Deep Learning in Asset Pricing** (2019), L. Chen et al. [[pdf]](https://economics.yale.edu/sites/default/files/deep_learning_in_asset_pricing.pdf)
 - **Deep Factor Model** (2018), K. Nakagawa et al. [[pdf]](https://arxiv.org/pdf/1810.01278.pdf)
+  + Focus: It proposes to represent a return model and risk model in a unified manner with deep learning, which is a representative model that can express a nonlinear relationship.
 - **Deep Learning in Asset Pricing** (2019), G. Feng et al. [[pdf]](https://arxiv.org/pdf/1805.01104.pdf)
 - **Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model** (2019), K. Nakagawa et al. [[pdf]](https://arxiv.org/ftp/arxiv/papers/1901/1901.11493.pdf)
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
+  + Foucs: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature
+an importance value for a particular prediction.
 ## 6. Industrial application
 - J.P. Morgan (https://www.jpmorgan.com/global/technology/artificial-intelligence)

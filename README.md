@@ -47,17 +47,15 @@ restricted Boltzmann machines to extract features from the history of individual
 - **Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model** (2019), K. Nakagawa et al. [[pdf]](https://arxiv.org/ftp/arxiv/papers/1901/1901.11493.pdf)
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
-  + Foucs: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature
+  + Focus: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature
 an importance value for a particular prediction.
 ## 6. Industrial application
 - J.P. Morgan (https://www.jpmorgan.com/global/technology/artificial-intelligence)
 
 ## 7. Survey
 - **Natural language based financial forecasting: a survey** (2018), F. Z. Xing et al. [[pdf]](https://link.springer.com/article/10.1007/s10462-017-9588-9)
-  + Foucs: It clarifies the scope of natural language based financial forecasting (NLFF) research by ordering and structuring techniques and applications from related work.
- 
+  + Focus: It clarifies the scope of natural language based financial forecasting (NLFF) research by ordering and structuring techniques and applications from related work.
 - **Surveying stock market forecasting techniques – Part II: Soft computing methods** (2009), G. S.Atsalakis et al. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0957417408004417)
-  + Foucs: It surveys more than 100 related published articles that focus on neural and neuro-fuzzy techniques derived and applied to forecast stock markets.
- 
+  + Focus: It surveys more than 100 related published articles that focus on neural and neuro-fuzzy techniques derived and applied to forecast stock markets.
 - **Computational Intelligence and Financial Markets: A Survey and Future Directions** (2016), R. C.Cavalcante [[pdf]](https://www.sciencedirect.com/science/article/pii/S095741741630029X)
-  + Foucs: It gives an overview of the most important primary studies published from 2009 to 2015, which cover techniques for preprocessing and clustering of financial data, for forecasting future market movements, for mining financial text information, among others.
+  + Focus: It gives an overview of the most important primary studies published from 2009 to 2015, which cover techniques for preprocessing and clustering of financial data, for forecasting future market movements, for mining financial text information, among others.

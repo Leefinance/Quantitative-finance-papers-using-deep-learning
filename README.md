@@ -51,3 +51,7 @@ restricted Boltzmann machines to extract features from the history of individual
 an importance value for a particular prediction.
 ## 6. Industrial application
 - J.P. Morgan (https://www.jpmorgan.com/global/technology/artificial-intelligence)
+
+## 7. Survey
+- **Natural language based financial forecasting: a survey** (2018), F. Z. Xing et al. [[pdf]](https://link.springer.com/article/10.1007/s10462-017-9588-9)
+  + Foucs: It clarifies the scope of natural language based financial forecasting (NLFF) research by ordering and structuring techniques and applications from related work.

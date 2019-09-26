@@ -2,7 +2,7 @@
 
 ## Background
 <!Deep learning have become increasingly used in the field of finance. One of the difficulties in developing financial models arises from the fact that there is not a standard data like MINST or CIFAR. Experiments have been usually carried out under different conditions such as periods, country, and private data, and consequently, the models are exposed to experimental bias. Due to the difficulty of directly comparing the performance of the developed models, we cannot simply adopt the model with higher performance.> 
-I would like to introduce some papers on deep learning model-based forecasting and its applications, hoping that the tecniques employed in the studies will be used as parts in developing new and improved perdictors, especially for investment and risk management.
+I would like to introduce some papers on deep learning model-based forecasting and its applications, hoping that the tecniques employed in the studies will be used as components in developing new and improved perdictors, especially for investment and risk management.
 ## Contents
 ![alt text](/Contents.png)
 ***

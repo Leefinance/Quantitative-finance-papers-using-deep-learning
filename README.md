@@ -2,7 +2,7 @@
 
 ## Background
 <!Deep learning have become increasingly used in the field of finance.> 
-I would like to introduce some papers on deep learning model-based forecasting and its applications, hoping that the tecniques employed in them will be used as components in developing new systems for investment and risk management.
+I would like to introduce some papers bridging deep learning and traditional financial theories, hoping that the tecniques employed in them will be used as components in developing new investment and risk management systems.
 ## Contents
 ![alt text](/Contents.png)
 ***

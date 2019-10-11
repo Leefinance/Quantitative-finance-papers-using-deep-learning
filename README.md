@@ -50,7 +50,12 @@ restricted Boltzmann machines to extract features from the history of individual
 solves high-dimensional stochastic control problems based on Monte-Carlo sampling and test this approach using examples from the areas of optimal trading. 
 - **Machine learning and the cross-section of expected stock returns** (2018), M. Messmer [[pdf]](http://www1.unisg.ch/www/edis.nsf/SysLkpByIdentifier/4816/$FILE/dis4816.pdf)
   + Focus: Modeling expected cross-sectional stock returns has a long tradition in asset pricing. It is motivated by shortcomings of classical portfolio sorting approaches and tackles the task with alternative methodologies including classical linear models and more advanced machine learning algorithms.
-as well.  
+- **Empirical Asset Pricing via Machine Learning** (2019), S. Gu et al. [[pdf]](http://dachxiu.chicagobooth.edu/download/ML.pdf)
+  + Focus: It performs a comparative analysis of machine learning methods for the canonical problem
+of empirical asset pricing: measuring asset risk premia. Improved risk premium
+measurement through machine learning simplifies the investigation into economic mechanisms of
+asset pricing and highlights the value of machine learning in financial innovation.
+  
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
   + Focus: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature

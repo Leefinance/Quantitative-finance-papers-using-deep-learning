@@ -64,6 +64,7 @@ an importance value for a particular prediction.
 ## 6. Industrial application
 - **J.P. Morgan** Artificial Intelligence <https://www.jpmorgan.com/global/technology/artificial-intelligence>
 - **J.P. Morgan** J.P.Morgan's massive guide to machine learning and big data jobs in finance. <https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan>
+- **J.B. Heaton** Quantitative investing and the limits of (deep) learning from financial data. [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3133110)  
 ## 7. Survey
 - **Natural language based financial forecasting: a survey** (2018), F. Z. Xing et al. [[pdf]](https://link.springer.com/article/10.1007/s10462-017-9588-9)
   + _Focus_: It clarifies the scope of natural language based financial forecasting (NLFF) research by ordering and structuring techniques and applications from related work.

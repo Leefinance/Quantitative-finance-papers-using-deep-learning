@@ -55,7 +55,8 @@ solves high-dimensional stochastic control problems based on Monte-Carlo samplin
 of empirical asset pricing: measuring asset risk premia. Improved risk premium
 measurement through machine learning simplifies the investigation into economic mechanisms of
 asset pricing and highlights the value of machine learning in financial innovation.
-  
+  - **Machine Learning and Asset Pricing Models (PhD Thesis)** (2018), R. A. Porsani. [[pdf]](https://escholarship.org/uc/item/124940r0)
+  + Focus: It incorporates statistical-learning techniques into the field of cross-sectional asset pricing.
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
   + Focus: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature

@@ -62,7 +62,7 @@ asset pricing and highlights the value of machine learning in financial innovati
   + _Focus_: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature
 an importance value for a particular prediction.
 ## 6. Industrial application
-- **J.P. Morgan** (https://www.jpmorgan.com/global/technology/artificial-intelligence)
+- **J.P. Morgan** Artificial Intelligence <https://www.jpmorgan.com/global/technology/artificial-intelligence>
 - **J.P. Morgan** J.P.Morgan's massive guide to machine learning and big data jobs in finance. <https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan>
 ## 7. Survey
 - **Natural language based financial forecasting: a survey** (2018), F. Z. Xing et al. [[pdf]](https://link.springer.com/article/10.1007/s10462-017-9588-9)

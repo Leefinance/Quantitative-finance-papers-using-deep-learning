@@ -36,7 +36,7 @@ space.
 ### 4-2. Deep trading
 ### 4-3. Deep portfolio/deep factor
 - **Applying Deep Learning to Enhance Momentum Trading Strategies in Stocks** (2013), L. Takeuchi and Y.-Y. Lee. [[pdf]](http://cs229.stanford.edu/proj2013/TakeuchiLee-ApplyingDeepLearningToEnhanceMomentumTradingStrategiesInStocks.pdf)
-  + Focus: It uses an autoencoder composed of stacked
+  + _Focus_: It uses an autoencoder composed of stacked
 restricted Boltzmann machines to extract features from the history of individual stock prices. Its model is able to discover an enhanced version of the momentum effect in stocks without extensive hand-engineering of input features.
 - **Deep learning with long short-term memory networks for financial market predictions** (2018), T. Fischer and C. Krauss. 
 (https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652)

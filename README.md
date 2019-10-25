@@ -61,7 +61,9 @@ asset pricing and highlights the value of machine learning in financial innovati
 - **Deep Fundamental Factor Models** (2019), M. F. Dixon and N. G. Polson [[pdf]](https://arxiv.org/pdf/1903.07677.pdf)
   + _Focus_: It develops deep fundamental factor models to interpret and capture non-linearity, interaction effects and non-parametric shocks in financial econometrics, by constructing a six-factor model of assets in the S&P 500 index and generating information ratios that are three times greater than generalized linear regression.
 
-
+### 4-4. Deep Reinforcement
+- **Deep Reinforcement Learning in Financial Markets** (2019), S. Chakraborty [[pdf]](https://arxiv.org/abs/1907.04373)
+  + _Focus_: It explores the usage of deep reinforcement learning algorithms to automatically generate consistently profitable, robust, uncorrelated trading signals in any general financial market and develops a novel Markov decision process (MDP) model to capture the financial trading markets. 
 
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)

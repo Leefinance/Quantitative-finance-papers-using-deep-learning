@@ -57,6 +57,10 @@ measurement through machine learning simplifies the investigation into economic 
 asset pricing and highlights the value of machine learning in financial innovation.
 - **Machine Learning and Asset Pricing Models (PhD Thesis)** (2018), R. A. Porsani. [[pdf]](https://escholarship.org/uc/item/124940r0)
   + _Focus_: It incorporates statistical-learning techniques into the field of cross-sectional asset pricing.
+
+- **Deep Fundamental Factor Models** (2019), M. F. Dixon and N. G. Polson [[pdf]](https://arxiv.org/pdf/1903.07677.pdf)
+  + _Focus_: It develops deep fundamental factor models to interpret and capture non-linearity, interaction effects and non-parametric shocks in financial econometrics, by constructing a six-factor model of assets in the S&P 500 index and generate information ratios that are three times greater than generalized linear regression.
+
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
   + _Focus_: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature

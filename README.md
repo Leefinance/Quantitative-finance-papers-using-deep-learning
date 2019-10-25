@@ -14,7 +14,7 @@ I would like to introduce some papers bridging deep learning and traditional fin
 - **An Algorithmic Crystal Ball: Forecasts-based on Machine Learning** (2018),  J.-K. Jung et al. [[pdf]](https://www.imf.org/en/Publications/WP/Issues/2018/11/01/An-Algorithmic-Crystal-Ball-Forecasts-based-on-Machine-Learning-46288)
 ### Fundamental indicators
 - **Deep Learning for Predicting Asset Returns** (2018),  G. Feng et al. [[pdf]](https://arxiv.org/pdf/1804.09314.pdf)
-  + Foucs: It finds the existence of nonlinear factors which explain predictability of returns, in particular at the extremes of the characteristic
+  + _Focus_: It finds the existence of nonlinear factors which explain predictability of returns, in particular at the extremes of the characteristic
 space.
 ## 2. Deep neural networks
 ### 2-1. Multi-layer perceptron 
@@ -59,16 +59,22 @@ asset pricing and highlights the value of machine learning in financial innovati
   + _Focus_: It incorporates statistical-learning techniques into the field of cross-sectional asset pricing.
 
 - **Deep Fundamental Factor Models** (2019), M. F. Dixon and N. G. Polson [[pdf]](https://arxiv.org/pdf/1903.07677.pdf)
-  + _Focus_: It develops deep fundamental factor models to interpret and capture non-linearity, interaction effects and non-parametric shocks in financial econometrics, by constructing a six-factor model of assets in the S&P 500 index and generate information ratios that are three times greater than generalized linear regression.
+  + _Focus_: It develops deep fundamental factor models to interpret and capture non-linearity, interaction effects and non-parametric shocks in financial econometrics, by constructing a six-factor model of assets in the S&P 500 index and generating information ratios that are three times greater than generalized linear regression.
+
+
 
 ## 5. Explaining machine learning
 - **A Unified Approach to Interpreting Model Predictions** (2017), S. M. Lundberg and S.-I. Lee [[pdf]](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
-  + _Focus_: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature
-an importance value for a particular prediction.
+  + _Focus_: It presents a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature an importance value for a particular prediction.
+
+
 ## 6. Industrial application
 - **J.P. Morgan** Artificial Intelligence <https://www.jpmorgan.com/global/technology/artificial-intelligence>
 - **J.P. Morgan** J.P.Morgan's massive guide to machine learning and big data jobs in finance. <https://news.efinancialcareers.com/dk-en/285249/machine-learning-and-big-data-j-p-morgan>
 - **J.B. Heaton** Quantitative investing and the limits of (deep) learning from financial data. [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3133110)  
+
+
+
 ## 7. Survey
 - **Natural language based financial forecasting: a survey** (2018), F. Z. Xing et al. [[pdf]](https://link.springer.com/article/10.1007/s10462-017-9588-9)
   + _Focus_: It clarifies the scope of natural language based financial forecasting (NLFF) research by ordering and structuring techniques and applications from related work.

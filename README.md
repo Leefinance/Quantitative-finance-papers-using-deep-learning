@@ -19,7 +19,7 @@ space.
 
 ### Multi-indicators
 - **Discovering Bayesian Market Views for Intelligent Asset Allocation** (2018),  F. Z. Xing et al. [[pdf]](https://arxiv.org/pdf/1802.09911.pdf)
-  + _Focus_:  It proposes to formalize public mood into market views, because market views can be integrated into the modern portfolio theory. In the framework, the optimal market views will maximize returns in each period with a Bayesian asset allocation model. They use capitalization, prices, volume, and sentiment and train two neural models to generate the market views, and benchmark the model performance on other popular asset allocation strategies.
+  + _Focus_:  It proposes to formalize public mood into market views, because market views can be integrated into the modern portfolio theory. In the framework, the optimal market views will maximize returns in each period with a Bayesian asset allocation model. They use the data of capitalization, prices, volume, and sentiment and train two neural models to generate the market views, and benchmark the model performance on other popular asset allocation strategies.
 
 
 ## 2. Deep neural networks

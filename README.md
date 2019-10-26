@@ -66,6 +66,12 @@ asset pricing and highlights the value of machine learning in financial innovati
 
 - **Deep Fundamental Factor Models** (2019), M. F. Dixon and N. G. Polson [[pdf]](https://arxiv.org/pdf/1903.07677.pdf)
   + _Focus_: It develops deep fundamental factor models to interpret and capture non-linearity, interaction effects and non-parametric shocks in financial econometrics, by constructing a six-factor model of assets in the S&P 500 index and generating information ratios that are three times greater than generalized linear regression.
+  
+- **Deep Learning for Forecasting Stock Returns in the Cross-Section** (2018), Masaya Abe and Hideki Nakayama
+ [[pdf]](https://arxiv.org/ftp/arxiv/papers/1801/1801.01777.pdf)
+  + _Focus_: It implements deep learning to predict one-month-ahead stock returns in the cross-section in the Japanese stock market and investigates the performance of the method. 
+  
+  
 
 ### 4-4. Deep Reinforcement
 - **Deep Reinforcement Learning in Financial Markets** (2019), S. Chakraborty [[pdf]](https://arxiv.org/abs/1907.04373)

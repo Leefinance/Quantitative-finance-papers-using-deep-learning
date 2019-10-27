@@ -21,6 +21,10 @@ space.
 - **Discovering Bayesian Market Views for Intelligent Asset Allocation** (2018),  F. Z. Xing et al. [[pdf]](https://arxiv.org/pdf/1802.09911.pdf)
   + _Focus_:  It proposes to formalize public mood into market views, because market views can be integrated into the modern portfolio theory. In the framework, the optimal market views will maximize returns in each period with a Bayesian asset allocation model. They use the data of capitalization, prices, volume, and sentiment and train two neural models to generate the market views, and benchmark the model performance on other popular asset allocation strategies.
 
+- **Visual Attention Model for Cross-sectional Stock Return Prediction and End-to-End Multimodal Market Representation Learning** (2018),  R. Zhao et al. [[pdf]](https://arxiv.org/abs/1809.03684)
+  + _Focus_: Using the data of price-volume, historical return, technical indicators, and fundamental indicators, it applies a convolutional neural network over this market image to build market features in a hierarchical way. We use a recurrent neural network, with an attention mechanism over the market feature maps, to model temporal dynamics in the market.
+
+
 
 ## 2. Deep neural networks
 ### 2-1. Multi-layer perceptron 

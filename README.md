@@ -75,7 +75,10 @@ asset pricing and highlights the value of machine learning in financial innovati
  [[pdf]](https://arxiv.org/ftp/arxiv/papers/1801/1801.01777.pdf)
   + _Focus_: It implements deep learning to predict one-month-ahead stock returns in the cross-section in the Japanese stock market and investigates the performance of the method. 
   
-  
+- **Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals** (2018), J. Alberg and Z. C. Lipton [[pdf]](https://arxiv.org/pdf/1711.04837.pdf)
+  + _Focus_: They first show through simulation that if they could (clairvoyantly)
+select stocks using factors calculated on future fundamentals (via oracle), then
+their portfolios would far outperform a standard factor approach.
 
 ### 4-4. Deep Reinforcement
 - **Deep Reinforcement Learning in Financial Markets** (2019), S. Chakraborty [[pdf]](https://arxiv.org/abs/1907.04373)

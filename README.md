@@ -53,7 +53,7 @@ restricted Boltzmann machines to extract features from the history of individual
 - **Deep Learning in Asset Pricing** (2019), L. Chen et al. [[pdf]](https://economics.yale.edu/sites/default/files/deep_learning_in_asset_pricing.pdf)
 - **Deep Factor Model** (2018), K. Nakagawa et al. [[pdf]](https://arxiv.org/pdf/1810.01278.pdf)
   + _Focus_: It proposes to represent a return model and risk model in a unified manner with deep learning, which is a representative model that can express a nonlinear relationship.
-- **Deep Learning in Asset Pricing** (2019), G. Feng et al. [[pdf]](https://arxiv.org/pdf/1805.01104.pdf)
+- **Deep Learning in Characteristics-Sorted Factor Models** (2019), G. Feng et al. [[pdf]](https://arxiv.org/pdf/1805.01104.pdf)
 - **Deep Recurrent Factor Model: Interpretable Non-Linear and Time-Varying Multi-Factor Model** (2019), K. Nakagawa et al. [[pdf]](https://arxiv.org/ftp/arxiv/papers/1901/1901.11493.pdf)
 - **Deep Learning Approximation for Stochastic Control Problems** (2016), J. Han and Weinan E. [[pdf]](https://arxiv.org/pdf/1611.07422.pdf)
   + _Focus_: It develops a deep learning approach that directly

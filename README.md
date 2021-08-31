@@ -1,5 +1,5 @@
 # Quantitative-finance-papers-using-deep-learning
-## The document is now updated in <a href="https://deepallocation.com/Sub_html_frontier/index_Frontier.html"> AI frontier in investment portfolio </a>.
+## The document is now updated in <a href="https://deepallocation.com/Sub_html_frontier/index_Frontier.html"> AI frontier in investment portfolio</a>.
 ## Background
 <!Deep learning have become increasingly used in the field of finance.> 
 I would like to introduce some papers bridging deep learning and traditional financial theories (especially in the field of investments), hoping that the tecniques employed in them will be used as components in developing new investment and risk management systems.
